@@ -1,0 +1,6 @@
+- lang: fr
+  value: Bonjour
+- value: Halo
+  lang: de
+- lang: en
+  value: Hello
